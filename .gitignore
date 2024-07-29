@@ -1,0 +1,9 @@
+venv
+.coverage
+.coveragerc
+.idea
+.vscode
+**/__pycache__/
+build
+dist
+pybraineuz.egg-info
